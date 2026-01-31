@@ -1,0 +1,6 @@
+[0m18:00:24.270102 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E9D4935290>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E9D4935110>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E9D4937190>]}
+
+
+============================== 18:00:24.274670 | 2daf7469-638d-484d-a65a-53aca7b2cf6d ==============================
+[0m18:00:24.274670 [info ] [MainThread]: Running with dbt=1.11.2
+[0m18:00:24.276679 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'None', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'profiles_dir': 'C:\\Users\\nimba\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'invocation_command': 'dbt init', 'use_colors': 'True', 'indirect_selection': 'eager', 'use_experimental_parser': 'False', 'log_path': 'logs'}
