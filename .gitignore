@@ -1,1 +1,3 @@
 /virtenv/
+data/*
+__pycache__/
